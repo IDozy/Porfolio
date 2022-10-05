@@ -65,7 +65,7 @@ html, body {
 
 
     .label-hola:after{
-        content:"Hello.";
+        content:"Hola.";
     }
     .label-hola:hover:after{
         content:"Sobre Mi";
